@@ -17,9 +17,9 @@ If you use this code in your research, please cite our paper:
 
 ```
 @inproceedings{bai2020bmgufs,
-    title={Block Model Guided Unsupervised Feature Selection},
-    author={Bai, Zilong and Nguyen, Hoa and Davidson, Ian},
-    booktitle={Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-    year={2020}
+  title={Block Model Guided Unsupervised Feature Selection},
+  author={Bai, Zilong and Nguyen, Hoa and Davidson, Ian},
+  booktitle={Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2020}
 }
 ```
