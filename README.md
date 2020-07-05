@@ -13,7 +13,7 @@ Please create another folder results/ to hold the output of the algorithm.
 
 # Citation
 
-If you use this code in your research, please consider cite our paper:
+If you use this code in your research, please cite our paper:
 
 ```
 @inproceedings{bai2020bmgufs,
