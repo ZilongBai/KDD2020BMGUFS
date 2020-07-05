@@ -10,3 +10,14 @@ The dataset is a zipped folder (with anonymity ensured).
 Please unzip the folder to get datasets.
 
 Please create another folder results/ to hold the output of the algorithm.
+
+# Citation
+
+If you use this code in your research, please consider cite our paper:
+
+@inproceedings{bai2020bmgufs,
+    title={Block Model Guided Unsupervised Feature Selection},
+    author={Bai, Zilong and Nguyen, Hoa and Davidson, Ian},
+    booktitle={SIGKDD},
+    year={2020}
+}
