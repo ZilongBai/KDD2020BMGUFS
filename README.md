@@ -1,7 +1,7 @@
 # KDD2020BMGUFS
 This repository holds the source codes for the paper Block Model Guided Unsupervised Feature Selection accepted at KDD2020. Authors of paper: Zilong Bai, Hoa Nguyen, Ian Davidson.
 
-Pre-print: [on ArXiv](https://arxiv.org/abs/2007.02376)
+Pre-print: [on ArXiv https://arxiv.org/abs/2007.02376](https://arxiv.org/abs/2007.02376)
 
 DOI: 10.1145/3394486.3403173
 
