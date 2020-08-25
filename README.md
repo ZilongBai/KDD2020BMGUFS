@@ -18,10 +18,11 @@ Please create another folder results/ to hold the output of the algorithm.
 If you use this code in your research, please cite our paper:
 
 ```
-@inproceedings{bai2020bmgufs,
+@inproceedings{bai2020block,
   title={Block Model Guided Unsupervised Feature Selection},
   author={Bai, Zilong and Nguyen, Hoa and Davidson, Ian},
-  booktitle={Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1201--1211},
   year={2020}
 }
 ```
