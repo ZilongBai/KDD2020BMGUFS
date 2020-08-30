@@ -3,7 +3,7 @@ This repository holds the source codes for the paper Block Model Guided Unsuperv
 
 Pre-print: [on ArXiv https://arxiv.org/abs/2007.02376](https://arxiv.org/abs/2007.02376)
 
-DOI: 10.1145/3394486.3403173
+DOI: [10.1145/3394486.3403173](https://dl.acm.org/doi/abs/10.1145/3394486.3403173)
 
 This repository is created and maintained by Zilong Bai, the first author of the paper.
 
